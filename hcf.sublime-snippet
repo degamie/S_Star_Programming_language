@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 in hcf(in num):
-(max(num)>=0)?return num:return Null
+(max(num)>=0)?return num:Null
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>hcf</tabTrigger>
