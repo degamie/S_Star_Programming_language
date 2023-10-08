@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+in hcf(in num):
+(max(num)>=0)?return num:return Null
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>hcf</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.s*</scope>
+</snippet>
